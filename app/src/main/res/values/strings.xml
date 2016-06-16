@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Camera and Features</string>
+    <string name="bIntentCamera">Intent Camera</string>
+    <string name="bApplicationCamera">Application Camera</string>
+    <string name="bCapture">Capture</string>
+    <string name="captureSucess">Picture Captured and saved to your device</string>
+</resources>
